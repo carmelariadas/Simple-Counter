@@ -10,3 +10,35 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-color: black;
+    font-size: 70px;
+    color: whitesmoke;
+}
+
+svg{
+    width: 110px;
+}
+
+.digit{
+    box-sizing: border-box;
+    border-radius: 2rem;
+    background: #272727;
+
+}
+
+.reloj{
+    box-sizing: border-box;
+    border-radius: 2rem;
+    background: #272727;
+    width: 200px;
+} 
+
+.col-1, .col-2{
+    height: 160px;
+}
+
+button{
+    font-size: 40px;
+    margin: 10px;
+}
